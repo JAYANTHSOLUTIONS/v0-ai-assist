@@ -1,0 +1,1026 @@
+2025-07-19 16:45:26 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 16:45:26 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 16:45:26 | WARNING  | main:lifespan:47 - DEEPSEEK_API_KEY not set - using mock responses
+2025-07-19 16:45:45 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 16:45:56 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 16:45:56 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 16:45:56 | WARNING  | main:lifespan:47 - DEEPSEEK_API_KEY not set - using mock responses
+2025-07-19 16:45:59 | INFO     | main:log_requests:101 - Request 11d424cd-34e2-4a86-961f-dd8f28ad23fd: GET / from 127.0.0.1
+2025-07-19 16:45:59 | INFO     | main:log_requests:111 - Response 11d424cd-34e2-4a86-961f-dd8f28ad23fd: 200 (0.004s)
+2025-07-19 16:45:59 | INFO     | main:log_requests:101 - Request 649803f2-d853-4add-b54c-176c33c3c7aa: GET /favicon.ico from 127.0.0.1
+2025-07-19 16:45:59 | INFO     | main:log_requests:111 - Response 649803f2-d853-4add-b54c-176c33c3c7aa: 404 (0.003s)
+2025-07-19 16:46:10 | INFO     | main:log_requests:101 - Request da99de44-59fc-43f9-8ee6-d77703db0b8d: GET /docs from 127.0.0.1
+2025-07-19 16:46:10 | INFO     | main:log_requests:111 - Response da99de44-59fc-43f9-8ee6-d77703db0b8d: 200 (0.003s)
+2025-07-19 16:46:10 | INFO     | main:log_requests:101 - Request f1b3d29a-fa4a-46c5-8e74-c98a3778464b: GET /openapi.json from 127.0.0.1
+2025-07-19 16:46:10 | INFO     | main:log_requests:111 - Response f1b3d29a-fa4a-46c5-8e74-c98a3778464b: 200 (0.054s)
+2025-07-19 16:51:04 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 16:51:09 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 16:51:09 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 16:51:09 | WARNING  | main:lifespan:47 - DEEPSEEK_API_KEY not set - using mock responses
+2025-07-19 16:51:16 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 16:51:16 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 16:51:16 | WARNING  | main:lifespan:47 - DEEPSEEK_API_KEY not set - using mock responses
+2025-07-19 16:52:59 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 16:53:03 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 16:53:03 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 16:53:11 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 16:53:11 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 17:09:56 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 17:13:03 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 17:13:03 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 17:13:08 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 17:13:18 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 17:13:18 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 17:13:21 | INFO     | main:log_requests:101 - Request 1e744d31-3b2c-4e17-ac5c-22f651692917: GET / from 127.0.0.1
+2025-07-19 17:13:21 | INFO     | main:log_requests:111 - Response 1e744d31-3b2c-4e17-ac5c-22f651692917: 200 (0.007s)
+2025-07-19 17:13:28 | INFO     | main:log_requests:101 - Request 2c1ce870-88da-4167-bb1a-715b8abec11a: GET /docs from 127.0.0.1
+2025-07-19 17:13:28 | INFO     | main:log_requests:111 - Response 2c1ce870-88da-4167-bb1a-715b8abec11a: 200 (0.002s)
+2025-07-19 17:13:28 | INFO     | main:log_requests:101 - Request ce1e21d4-2d1f-4e95-9642-aecf75003c61: GET /openapi.json from 127.0.0.1
+2025-07-19 17:13:28 | INFO     | main:log_requests:111 - Response ce1e21d4-2d1f-4e95-9642-aecf75003c61: 200 (0.041s)
+2025-07-19 17:15:05 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 17:15:07 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 17:15:07 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 17:16:54 | INFO     | main:log_requests:101 - Request 71056ca8-046c-46f6-b34b-80d150e0f4f6: GET /api/v1/tripxplo/packages from 127.0.0.1
+2025-07-19 17:16:55 | INFO     | main:log_requests:111 - Response 71056ca8-046c-46f6-b34b-80d150e0f4f6: 200 (0.976s)
+2025-07-19 17:18:54 | INFO     | main:log_requests:101 - Request 505cdd07-df72-4574-95af-ab2ca3f3a59b: GET /api/v1/tripxplo/package/SIGOAHO-QVUE-3D2N4A from 127.0.0.1
+2025-07-19 17:18:54 | INFO     | main:log_requests:111 - Response 505cdd07-df72-4574-95af-ab2ca3f3a59b: 200 (0.127s)
+2025-07-19 17:19:07 | INFO     | main:log_requests:101 - Request 381bd0b1-9776-45da-98d6-accaa14c68f5: GET /api/v1/tripxplo/package/SIGOAHO-QVUE-3D2N4A/hotels from 127.0.0.1
+2025-07-19 17:19:07 | INFO     | main:log_requests:111 - Response 381bd0b1-9776-45da-98d6-accaa14c68f5: 200 (0.136s)
+2025-07-19 17:19:22 | INFO     | main:log_requests:101 - Request 98b620b7-a86d-4c53-ad98-2384e8b2bd92: GET /api/v1/tripxplo/interests from 127.0.0.1
+2025-07-19 17:19:22 | INFO     | main:log_requests:111 - Response 98b620b7-a86d-4c53-ad98-2384e8b2bd92: 200 (0.113s)
+2025-07-19 17:19:32 | INFO     | main:log_requests:101 - Request cd3b6494-6c8f-461f-8721-0a510a6c86f7: GET / from 127.0.0.1
+2025-07-19 17:19:32 | INFO     | main:log_requests:111 - Response cd3b6494-6c8f-461f-8721-0a510a6c86f7: 200 (0.001s)
+2025-07-19 17:24:23 | INFO     | main:log_requests:101 - Request 625d76dc-0dbc-4b52-a0f6-0317b39abb2b: GET /api/v1/tripxplo/packages from 127.0.0.1
+2025-07-19 17:24:23 | INFO     | main:log_requests:111 - Response 625d76dc-0dbc-4b52-a0f6-0317b39abb2b: 200 (0.613s)
+2025-07-19 17:24:49 | INFO     | main:log_requests:101 - Request 2b2309ad-e916-4bfe-ab6e-889ba3a7cb11: GET /api/v1/tripxplo/packages from 127.0.0.1
+2025-07-19 17:24:49 | INFO     | main:log_requests:111 - Response 2b2309ad-e916-4bfe-ab6e-889ba3a7cb11: 200 (0.526s)
+2025-07-19 17:47:11 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 17:47:13 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 17:47:13 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 17:47:17 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 17:47:17 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 17:47:19 | INFO     | main:log_requests:101 - Request b143f81c-a3d5-41f3-861d-2b487787b045: GET / from 127.0.0.1
+2025-07-19 17:47:19 | INFO     | main:log_requests:111 - Response b143f81c-a3d5-41f3-861d-2b487787b045: 200 (0.001s)
+2025-07-19 17:47:27 | INFO     | main:log_requests:101 - Request 55b7b36d-b9c5-4f93-bd3d-9bc18a1b0a04: GET /docs from 127.0.0.1
+2025-07-19 17:47:27 | INFO     | main:log_requests:111 - Response 55b7b36d-b9c5-4f93-bd3d-9bc18a1b0a04: 200 (0.001s)
+2025-07-19 17:47:27 | INFO     | main:log_requests:101 - Request 55aa1c21-0dbe-464c-87d0-19434fc7a8d3: GET /openapi.json from 127.0.0.1
+2025-07-19 17:47:27 | INFO     | main:log_requests:111 - Response 55aa1c21-0dbe-464c-87d0-19434fc7a8d3: 200 (0.036s)
+2025-07-19 17:49:15 | INFO     | main:log_requests:101 - Request e279e369-eab9-478e-ab3e-b993fa32151a: GET /api/v1/conversation/a1449137-a4f8-437d-860f-ee51a29611b7 from 127.0.0.1
+2025-07-19 17:49:15 | INFO     | api_routes:get_conversation_history:113 - Retrieving conversation history for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:49:15 | INFO     | main:log_requests:111 - Response e279e369-eab9-478e-ab3e-b993fa32151a: 200 (0.035s)
+2025-07-19 17:49:41 | INFO     | main:log_requests:101 - Request 6fd0a4fe-a061-4a39-8e09-4df5525892b3: GET /api/v1/conversation/a1449137-a4f8-437d-860f-ee51a29611b7 from 127.0.0.1
+2025-07-19 17:49:41 | INFO     | api_routes:get_conversation_history:113 - Retrieving conversation history for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:49:41 | INFO     | main:log_requests:111 - Response 6fd0a4fe-a061-4a39-8e09-4df5525892b3: 200 (0.007s)
+2025-07-19 17:49:51 | INFO     | main:log_requests:101 - Request 77ece2db-2f89-4395-9be3-c224b28950f6: POST /api/v1/chat from 127.0.0.1
+2025-07-19 17:49:51 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:49:51 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:49:52 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:49:52 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 17:49:53 | ERROR    | deepseek_client:_make_request:45 - DeepSeek API error: Client error '400 Bad Request' for url 'https://openrouter.ai/api/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-07-19 17:49:53 | ERROR    | deepseek_client:extract_intent_and_entities:107 - Intent extraction error: Client error '400 Bad Request' for url 'https://openrouter.ai/api/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-07-19 17:49:53 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 17:49:53 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 17:49:53 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 17:49:54 | ERROR    | deepseek_client:_make_request:45 - DeepSeek API error: Client error '400 Bad Request' for url 'https://openrouter.ai/api/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-07-19 17:49:54 | ERROR    | deepseek_client:generate_response:180 - Response generation error: Client error '400 Bad Request' for url 'https://openrouter.ai/api/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-07-19 17:49:54 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 17:49:54 | INFO     | main:log_requests:111 - Response 77ece2db-2f89-4395-9be3-c224b28950f6: 200 (2.638s)
+2025-07-19 17:53:21 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 17:53:35 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 17:53:35 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 17:53:35 | INFO     | main:log_requests:101 - Request 78f4f029-4d80-49fa-a3b5-786ab9d7c04b: POST /api/v1/chat from 127.0.0.1
+2025-07-19 17:53:35 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:53:35 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:53:35 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:53:35 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 17:53:36 | ERROR    | deepseek_client:_make_request:47 - HTTP error: 400 - {"error":{"message":"deepseek-chat is not a valid model ID","code":400},"user_id":"user_2ziueRVTyptW4WwryFmF5wicwBI"}
+2025-07-19 17:53:36 | ERROR    | deepseek_client:extract_intent_and_entities:110 - Intent extraction error: Client error '400 Bad Request' for url 'https://openrouter.ai/api/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-07-19 17:53:36 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 17:53:37 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 17:53:37 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 17:53:37 | ERROR    | deepseek_client:_make_request:47 - HTTP error: 400 - {"error":{"message":"deepseek-chat is not a valid model ID","code":400},"user_id":"user_2ziueRVTyptW4WwryFmF5wicwBI"}
+2025-07-19 17:53:37 | ERROR    | deepseek_client:generate_response:181 - Response generation error: Client error '400 Bad Request' for url 'https://openrouter.ai/api/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-07-19 17:53:38 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 17:53:38 | INFO     | main:log_requests:111 - Response 78f4f029-4d80-49fa-a3b5-786ab9d7c04b: 200 (2.728s)
+2025-07-19 17:55:34 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 17:55:38 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 17:55:38 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 17:55:43 | INFO     | main:log_requests:101 - Request 3ac6a350-40f2-4718-a6fd-945e67448cfc: POST /api/v1/chat from 127.0.0.1
+2025-07-19 17:55:43 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:55:43 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:55:43 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:55:43 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 17:55:44 | ERROR    | deepseek_client:_make_request:47 - HTTP error: 400 - {"error":{"message":"deepseek-chat is not a valid model ID","code":400},"user_id":"user_2ziueRVTyptW4WwryFmF5wicwBI"}
+2025-07-19 17:55:44 | ERROR    | deepseek_client:extract_intent_and_entities:110 - Intent extraction error: Client error '400 Bad Request' for url 'https://openrouter.ai/api/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-07-19 17:55:44 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 17:55:44 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 17:55:44 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 17:55:45 | ERROR    | deepseek_client:_make_request:47 - HTTP error: 400 - {"error":{"message":"deepseek-chat is not a valid model ID","code":400},"user_id":"user_2ziueRVTyptW4WwryFmF5wicwBI"}
+2025-07-19 17:55:45 | ERROR    | deepseek_client:generate_response:181 - Response generation error: Client error '400 Bad Request' for url 'https://openrouter.ai/api/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+2025-07-19 17:55:45 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 17:55:45 | INFO     | main:log_requests:111 - Response 3ac6a350-40f2-4718-a6fd-945e67448cfc: 200 (2.771s)
+2025-07-19 17:57:29 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 17:57:32 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 17:57:32 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 17:57:47 | INFO     | main:log_requests:101 - Request 1d15a4af-1e5b-47f4-bd45-3461e4171af7: POST /api/v1/chat from 127.0.0.1
+2025-07-19 17:57:47 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:57:47 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:57:47 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 17:57:48 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 17:57:54 | ERROR    | deepseek_client:extract_intent_and_entities:110 - Intent extraction error: Expecting value: line 1 column 1 (char 0)
+2025-07-19 17:57:54 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 17:57:54 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 17:57:54 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 17:58:10 | ERROR    | deepseek_client:generate_response:181 - Response generation error: Expecting value: line 1 column 1 (char 0)
+2025-07-19 17:58:10 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 17:58:10 | INFO     | main:log_requests:111 - Response 1d15a4af-1e5b-47f4-bd45-3461e4171af7: 200 (22.676s)
+2025-07-19 18:00:18 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:00:21 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:00:21 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:00:30 | INFO     | main:log_requests:101 - Request c6999723-cd64-456e-a236-aefc54e5bb73: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:00:30 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:00:30 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:00:30 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:00:30 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:00:41 | ERROR    | deepseek_client:extract_intent_and_entities:118 - Intent extraction error: Expecting value: line 1 column 1 (char 0)
+2025-07-19 18:00:41 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 18:00:41 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 18:00:41 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:00:50 | ERROR    | deepseek_client:generate_response:189 - Response generation error: Expecting value: line 1 column 1 (char 0)
+2025-07-19 18:00:50 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:00:50 | INFO     | main:log_requests:111 - Response c6999723-cd64-456e-a236-aefc54e5bb73: 200 (20.164s)
+2025-07-19 18:07:01 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:07:04 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:07:04 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:07:10 | INFO     | main:log_requests:101 - Request 6db7f5a7-491c-4ecd-a6f3-a15733b5d569: GET /api/v1/conversation/a1449137-a4f8-437d-860f-ee51a29611b7 from 127.0.0.1
+2025-07-19 18:07:10 | INFO     | api_routes:get_conversation_history:113 - Retrieving conversation history for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:07:10 | ERROR    | api_routes:get_conversation_history:137 - Error retrieving conversation history: 10 validation errors for ConversationHistory
+messages.0.message
+  Field required [type=missing, input_value={'id': 1, 'session_id': '...19, 12, 19, 54, 541052)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.1.message
+  Field required [type=missing, input_value={'id': 2, 'session_id': '...19, 12, 19, 54, 551236)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.2.message
+  Field required [type=missing, input_value={'id': 3, 'session_id': '... 19, 12, 23, 38, 52206)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.3.message
+  Field required [type=missing, input_value={'id': 4, 'session_id': '... 19, 12, 23, 38, 72891)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.4.message
+  Field required [type=missing, input_value={'id': 5, 'session_id': '...19, 12, 25, 45, 726938)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.5.message
+  Field required [type=missing, input_value={'id': 6, 'session_id': '...19, 12, 25, 45, 735799)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.6.message
+  Field required [type=missing, input_value={'id': 7, 'session_id': '...19, 12, 28, 10, 559512)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.7.message
+  Field required [type=missing, input_value={'id': 8, 'session_id': '...19, 12, 28, 10, 569725)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.8.message
+  Field required [type=missing, input_value={'id': 9, 'session_id': '...19, 12, 30, 50, 680495)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.9.message
+  Field required [type=missing, input_value={'id': 10, 'session_id': ...19, 12, 30, 50, 689993)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-19 18:07:10 | INFO     | main:log_requests:111 - Response 6db7f5a7-491c-4ecd-a6f3-a15733b5d569: 500 (0.017s)
+2025-07-19 18:07:18 | INFO     | main:log_requests:101 - Request c4cf3328-9ae3-44ff-be32-a5ca64624d77: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:07:18 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:07:18 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:07:18 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:07:18 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:07:23 | ERROR    | deepseek_client:extract_intent_and_entities:135 - JSON decode error in extract_intent_and_entities: Expecting value: line 1 column 1 (char 0)
+2025-07-19 18:07:23 | ERROR    | deepseek_client:extract_intent_and_entities:136 - Response content:
+```json
+{
+    "intent": "book_trip",
+    "confidence": 0.9,
+    "entities": {
+        "destination": "goa",
+        "location": "goa"
+    }
+}
+```
+2025-07-19 18:07:23 | ERROR    | deepseek_client:extract_intent_and_entities:146 - Intent extraction error: DeepSeek returned invalid JSON for intent extraction
+2025-07-19 18:07:23 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 18:07:23 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 18:07:23 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:07:42 | ERROR    | deepseek_client:generate_response:212 - JSON decode error in generate_response: Expecting value: line 1 column 1 (char 0)
+2025-07-19 18:07:42 | ERROR    | deepseek_client:generate_response:213 - Response content:
+```json
+{
+    "message": "I'd be happy to help you find exciting Goa packages! Goa offers beautiful beaches, vibrant nightlife, and rich Portuguese heritage. Would you like me to show you some popular package options?",
+    "ui_elements": [
+        {
+            "type": "card",
+            "text": "3D/2N Beachside Resort Package",
+            "action": "show_details",
+            "data": {"duration": "3 days", "price": "₹12,499", "inclusions": "Breakfast, airport transfers"}
+        },
+        {
+            "type": "card",
+            "text": "5D/4N Luxury Heritage Stay",
+            "action": "show_details",
+            "data": {"duration": "5 days", "price": "₹24,999", "inclusions": "All meals, sightseeing tours"}
+        },
+        {
+            "type": "button",
+            "text": "View All Packages",
+            "action": "show_all_packages",
+            "data": {"destination": "Goa"}
+        },
+        {
+            "type": "button",
+            "text": "Help Me Choose",
+            "action": "package_recommendation",
+            "data": {"destination": "Goa"}
+        }
+    ]
+}
+```
+2025-07-19 18:07:42 | ERROR    | deepseek_client:generate_response:227 - Response generation error: DeepSeek returned invalid JSON for response generation
+2025-07-19 18:07:42 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:07:43 | INFO     | main:log_requests:111 - Response c4cf3328-9ae3-44ff-be32-a5ca64624d77: 200 (24.369s)
+2025-07-19 18:12:50 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:12:55 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:12:55 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:13:02 | INFO     | main:log_requests:101 - Request 45bb54d8-4053-4a96-a019-c62184f8cc85: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:13:02 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:13:02 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:13:02 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:13:02 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:13:07 | ERROR    | deepseek_client:extract_intent_and_entities:141 - JSON decode error in extract_intent_and_entities: Expecting value: line 1 column 1 (char 0)
+2025-07-19 18:13:07 | ERROR    | deepseek_client:extract_intent_and_entities:142 - Response content:
+```json
+{
+    "intent": "book_trip",
+    "confidence": 0.9,
+    "entities": {
+        "destination": "Goa"
+    }
+}
+```
+2025-07-19 18:13:07 | ERROR    | deepseek_client:extract_intent_and_entities:152 - Intent extraction error: DeepSeek returned invalid JSON for intent extraction
+2025-07-19 18:13:07 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 18:13:07 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 18:13:07 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:13:15 | ERROR    | deepseek_client:generate_response:217 - JSON decode error in generate_response: Expecting value: line 1 column 1 (char 0)
+2025-07-19 18:13:15 | ERROR    | deepseek_client:generate_response:218 - Response content:
+```json
+{
+    "message": "I'd be happy to help you find great travel packages for Goa! Here are some popular options to consider:",
+    "ui_elements": [
+        {
+            "type": "card",
+            "text": "3D/2N Beach Resort Package",
+            "action": "show_details",
+            "data": {
+                "destination": "Goa",
+                "duration": "3 days",
+                "price": "₹12,499",
+                "inclusions": "Breakfast, airport transfers, water sports"
+            }
+        },
+        {
+            "type": "card",
+            "text": "5D/4N Luxury Stay Package",
+            "action": "show_details",
+            "data": {
+                "destination": "Goa",
+                "duration": "5 days",
+                "price": "₹24,999",
+                "inclusions": "All meals, spa credits, city tour"
+            }
+        },
+        {
+            "type": "button",
+            "text": "View All Goa Packages",
+            "action": "show_more_options",
+            "data": {"destination": "Goa"}
+        },
+        {
+            "type": "button",
+            "text": "Book Custom Package",
+            "action": "start_custom_booking",
+            "data": {"destination": "Goa"}
+        }
+    ]
+}
+```
+2025-07-19 18:13:15 | ERROR    | deepseek_client:generate_response:232 - Response generation error: DeepSeek returned invalid JSON for response generation
+2025-07-19 18:13:15 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:13:15 | INFO     | main:log_requests:111 - Response 45bb54d8-4053-4a96-a019-c62184f8cc85: 200 (13.155s)
+2025-07-19 18:15:24 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:15:28 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:15:28 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:15:36 | INFO     | main:log_requests:101 - Request fda4cfa8-fa10-4a97-8672-27e74aaadc73: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:15:36 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:15:36 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:15:36 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:15:36 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:15:41 | ERROR    | deepseek_client:extract_intent_and_entities:133 - JSON decode error in extract_intent_and_entities: Expecting value: line 1 column 1 (char 0)
+2025-07-19 18:15:41 | ERROR    | deepseek_client:extract_intent_and_entities:134 - Response content:
+```json
+{
+    "intent": "book_trip",
+    "confidence": 0.9,
+    "entities": {
+        "destination": "Goa"
+    }
+}
+```
+2025-07-19 18:15:41 | ERROR    | langgraph_workflow:extract_intent_and_entities:126 - Intent extraction failed: DeepSeek returned invalid JSON for intent extraction
+2025-07-19 18:15:41 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 18:15:41 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 18:15:41 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:15:57 | ERROR    | deepseek_client:generate_response:211 - JSON decode error in generate_response: Expecting value: line 1 column 1 (char 0)
+2025-07-19 18:15:57 | ERROR    | deepseek_client:generate_response:212 - Response content:
+```json
+{
+    "message": "I'd be happy to help you find Goa packages! Here are some great options for your trip:",
+    "ui_elements": [
+        {
+            "type": "card",
+            "text": "3 Nights Goa Beach Resort Package",
+            "action": "show_details",
+            "data": {
+                "duration": "3 Nights",
+                "price": "₹12,499",
+                "inclusions": "Breakfast, Airport Transfers, Water Sports"
+            }
+        },
+        {
+            "type": "card",
+            "text": "5 Nights Luxury Goa Vacation",
+            "action": "show_details",
+            "data": {
+                "duration": "5 Nights",
+                "price": "₹24,999",
+                "inclusions": "All Meals, Spa, Private Beach Access"
+            }
+        },
+        {
+            "type": "button",
+            "text": "View All Packages",
+            "action": "show_all_packages",
+            "data": {"destination": "Goa"}
+        },
+        {
+            "type": "button",
+            "text": "Customize Your Package",
+            "action": "customize_package",
+            "data": {"destination": "Goa"}
+        }
+    ]
+}
+```
+2025-07-19 18:15:57 | ERROR    | langgraph_workflow:generate_response:259 - Response generation failed: DeepSeek returned invalid JSON for response generation
+2025-07-19 18:15:57 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:15:57 | INFO     | main:log_requests:111 - Response fda4cfa8-fa10-4a97-8672-27e74aaadc73: 200 (21.082s)
+2025-07-19 18:18:45 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:18:50 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:18:50 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:18:56 | INFO     | main:log_requests:101 - Request cb1d36b8-893f-45ef-93c5-a7b90e9ab3b6: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:18:56 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:18:56 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:18:56 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:18:56 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:19:02 | ERROR    | deepseek_client:extract_intent_and_entities:141 - Intent extraction error: string indices must be integers, not 'str'
+2025-07-19 18:19:02 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 18:19:02 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 18:19:02 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:19:17 | ERROR    | deepseek_client:generate_response:215 - Response generation error: string indices must be integers, not 'str'
+2025-07-19 18:19:17 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:19:17 | INFO     | main:log_requests:111 - Response cb1d36b8-893f-45ef-93c5-a7b90e9ab3b6: 200 (20.528s)
+2025-07-19 18:19:29 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:27:22 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:27:22 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:27:37 | INFO     | main:log_requests:101 - Request 22a221a2-ecc5-44ca-b997-48310e6dd091: GET / from 127.0.0.1
+2025-07-19 18:27:37 | INFO     | main:log_requests:111 - Response 22a221a2-ecc5-44ca-b997-48310e6dd091: 200 (0.003s)
+2025-07-19 18:27:49 | INFO     | main:log_requests:101 - Request d42e8fbd-c966-4240-b676-ead6e4f04cb3: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:27:49 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:27:49 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:27:49 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:27:49 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:27:57 | ERROR    | deepseek_client:extract_intent_and_entities:135 - JSON decode error in extract_intent_and_entities: Expecting value: line 1 column 1 (char 0)
+2025-07-19 18:27:57 | ERROR    | deepseek_client:extract_intent_and_entities:136 - Response content:
+```json
+{
+    "intent": "book_trip",
+    "confidence": 0.9,
+    "entities": {
+        "destination": "goa",
+        "package": "package"
+    }
+}
+```
+2025-07-19 18:27:57 | ERROR    | deepseek_client:extract_intent_and_entities:146 - Intent extraction error: DeepSeek returned invalid JSON for intent extraction
+2025-07-19 18:27:57 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 18:27:57 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 18:27:57 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:28:15 | ERROR    | deepseek_client:generate_response:213 - JSON decode error in generate_response: Expecting value: line 1 column 1 (char 0)
+2025-07-19 18:28:15 | ERROR    | deepseek_client:generate_response:214 - Response content:
+```json
+{
+    "message": "I'd be happy to help you find Goa holiday packages! Goa offers beautiful beaches, vibrant nightlife, and Portuguese heritage. Could you please share:\n1. Your travel dates\n2. Number of travelers\n3. Budget range\n4. Preferred type of accommodation (beach resort, luxury hotel, budget stay)?",
+    "ui_elements": [
+        {
+            "type": "button",
+            "text": "Show Popular 3D/2N Packages",
+            "action": "show_packages",
+            "data": {"duration": "3D2N", "destination": "Goa"}
+        },
+        {
+            "type": "button",
+            "text": "View Luxury Resorts",
+            "action": "show_accommodation",
+            "data": {"type": "luxury", "destination": "Goa"}
+        },
+        {
+            "type": "link",
+            "text": "See Goa Travel Guide",
+            "action": "open_guide",
+            "data": {"destination": "Goa"}
+        }
+    ]
+}
+```
+2025-07-19 18:28:15 | ERROR    | deepseek_client:generate_response:228 - Response generation error: DeepSeek returned invalid JSON for response generation
+2025-07-19 18:28:15 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:28:15 | INFO     | main:log_requests:111 - Response d42e8fbd-c966-4240-b676-ead6e4f04cb3: 200 (26.720s)
+2025-07-19 18:32:05 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:32:11 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:32:11 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:32:16 | INFO     | main:log_requests:101 - Request 1371e8cc-62ee-4a77-b206-fa6dcbc528d2: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:32:16 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:32:16 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:32:16 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:32:16 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:32:19 | ERROR    | deepseek_client:extract_intent_and_entities:127 - Failed to parse JSON from response content: ```json
+{
+    "intent": "book_trip",
+    "confidence": 0.8,
+    "entities": {
+        "location": "Goa"
+    }
+}
+```
+2025-07-19 18:32:19 | ERROR    | deepseek_client:extract_intent_and_entities:137 - Intent extraction error: DeepSeek returned invalid JSON for intent extraction
+2025-07-19 18:32:19 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 18:32:19 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 18:32:19 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:32:24 | ERROR    | deepseek_client:generate_response:204 - Failed to parse JSON from response content: ```json
+{
+    "message": "Looking for Goa holiday packages? I'd be happy to help! Goa offers beautiful beaches, vibrant nightlife, and Portuguese heritage. Would you like packages focused on beach resorts, adventure activities, or cultural experiences?",
+    "ui_elements": [
+        {
+            "type": "card",
+            "text": "Beach Resort Package",
+            "action": "show_details",
+            "data": {
+                "duration": "5D/4N",
+                "price": "₹18,499",
+                "highlights": "Luxury beachfront stay, water sports, sunset cruise"
+            }
+        },
+        {
+            "type": "card",
+            "text": "Adventure Package",
+            "action": "show_details",
+            "data": {
+                "duration": "4D/3N",
+                "price": "₹14,999",
+                "highlights": "Paragliding, scuba diving, trekking"
+            }
+        },
+        {
+            "type": "button",
+            "text": "View All Packages",
+            "action": "show_all_packages",
+            "data": {
+                "destination": "Goa"
+            }
+        },
+        {
+            "type": "button",
+            "text": "Customize Package",
+            "action": "customize_package",
+            "data": {}
+        }
+    ]
+}
+```
+2025-07-19 18:32:24 | ERROR    | deepseek_client:generate_response:218 - Response generation error: DeepSeek returned invalid JSON for response generation
+2025-07-19 18:32:24 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:32:24 | INFO     | main:log_requests:111 - Response 1371e8cc-62ee-4a77-b206-fa6dcbc528d2: 200 (8.397s)
+2025-07-19 18:34:16 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:34:21 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:34:21 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:34:21 | INFO     | main:log_requests:101 - Request 9203d759-a6d5-4015-98f0-5f8ca1e56ee8: GET /api/v1/conversation/a1449137-a4f8-437d-860f-ee51a29611b7 from 127.0.0.1
+2025-07-19 18:34:21 | INFO     | api_routes:get_conversation_history:113 - Retrieving conversation history for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:34:21 | ERROR    | api_routes:get_conversation_history:137 - Error retrieving conversation history: 22 validation errors for ConversationHistory
+messages.0.message
+  Field required [type=missing, input_value={'id': 1, 'session_id': '...19, 12, 19, 54, 541052)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.1.message
+  Field required [type=missing, input_value={'id': 2, 'session_id': '...19, 12, 19, 54, 551236)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.2.message
+  Field required [type=missing, input_value={'id': 3, 'session_id': '... 19, 12, 23, 38, 52206)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.3.message
+  Field required [type=missing, input_value={'id': 4, 'session_id': '... 19, 12, 23, 38, 72891)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.4.message
+  Field required [type=missing, input_value={'id': 5, 'session_id': '...19, 12, 25, 45, 726938)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.5.message
+  Field required [type=missing, input_value={'id': 6, 'session_id': '...19, 12, 25, 45, 735799)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.6.message
+  Field required [type=missing, input_value={'id': 7, 'session_id': '...19, 12, 28, 10, 559512)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.7.message
+  Field required [type=missing, input_value={'id': 8, 'session_id': '...19, 12, 28, 10, 569725)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.8.message
+  Field required [type=missing, input_value={'id': 9, 'session_id': '...19, 12, 30, 50, 680495)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.9.message
+  Field required [type=missing, input_value={'id': 10, 'session_id': ...19, 12, 30, 50, 689993)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.10.message
+  Field required [type=missing, input_value={'id': 11, 'session_id': ...7, 19, 12, 37, 43, 317)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.11.message
+  Field required [type=missing, input_value={'id': 12, 'session_id': ..., 19, 12, 37, 43, 9161)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.12.message
+  Field required [type=missing, input_value={'id': 13, 'session_id': ...19, 12, 43, 15, 828586)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.13.message
+  Field required [type=missing, input_value={'id': 14, 'session_id': ...19, 12, 43, 15, 845475)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.14.message
+  Field required [type=missing, input_value={'id': 15, 'session_id': ...19, 12, 45, 57, 590474)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.15.message
+  Field required [type=missing, input_value={'id': 16, 'session_id': ...19, 12, 45, 57, 610052)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.16.message
+  Field required [type=missing, input_value={'id': 17, 'session_id': ...19, 12, 49, 17, 190424)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.17.message
+  Field required [type=missing, input_value={'id': 18, 'session_id': ...19, 12, 49, 17, 208649)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.18.message
+  Field required [type=missing, input_value={'id': 19, 'session_id': ...19, 12, 58, 15, 824153)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.19.message
+  Field required [type=missing, input_value={'id': 20, 'session_id': ...19, 12, 58, 15, 839178)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.20.message
+  Field required [type=missing, input_value={'id': 21, 'session_id': ... 19, 13, 2, 24, 299693)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.21.message
+  Field required [type=missing, input_value={'id': 22, 'session_id': ... 19, 13, 2, 24, 315781)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-19 18:34:21 | INFO     | main:log_requests:111 - Response 9203d759-a6d5-4015-98f0-5f8ca1e56ee8: 500 (0.041s)
+2025-07-19 18:34:42 | INFO     | main:log_requests:101 - Request da813e30-a9fb-4291-8e58-6a40c7219ad2: GET /docs from 127.0.0.1
+2025-07-19 18:34:42 | INFO     | main:log_requests:111 - Response da813e30-a9fb-4291-8e58-6a40c7219ad2: 200 (0.004s)
+2025-07-19 18:34:42 | INFO     | main:log_requests:101 - Request 8337920b-1e5b-4974-8980-b9148088c10b: GET /openapi.json from 127.0.0.1
+2025-07-19 18:34:42 | INFO     | main:log_requests:111 - Response 8337920b-1e5b-4974-8980-b9148088c10b: 200 (0.060s)
+2025-07-19 18:36:56 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:37:32 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:37:32 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:37:41 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:37:57 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:37:57 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:38:07 | INFO     | main:log_requests:101 - Request 34350efd-703b-4f32-94f2-1cfa4d27cacc: GET / from 127.0.0.1
+2025-07-19 18:38:07 | INFO     | main:log_requests:111 - Response 34350efd-703b-4f32-94f2-1cfa4d27cacc: 200 (0.005s)
+2025-07-19 18:38:21 | INFO     | main:log_requests:101 - Request 35af7fb7-17c4-44b3-9cd1-d7860bee3ca4: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:38:21 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:38:21 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:38:21 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:38:21 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:38:28 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.BOOK_TRIP
+2025-07-19 18:38:28 | INFO     | langgraph_workflow:create_booking:213 - Processing booking request
+2025-07-19 18:38:28 | INFO     | external_apis:create_booking:102 - Creating flight booking for item: 
+2025-07-19 18:38:30 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:38:53 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:38:53 | INFO     | main:log_requests:111 - Response 35af7fb7-17c4-44b3-9cd1-d7860bee3ca4: 200 (31.643s)
+2025-07-19 18:41:42 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:42:26 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:42:26 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:42:26 | INFO     | main:log_requests:101 - Request b85f5d46-a15b-47a5-81d0-987dfd55cf06: GET / from 127.0.0.1
+2025-07-19 18:42:26 | INFO     | main:log_requests:111 - Response b85f5d46-a15b-47a5-81d0-987dfd55cf06: 200 (0.003s)
+2025-07-19 18:42:26 | INFO     | main:log_requests:101 - Request 1aed7526-9906-4cd1-9916-bdbc942dacf0: GET /favicon.ico from 127.0.0.1
+2025-07-19 18:42:26 | INFO     | main:log_requests:111 - Response 1aed7526-9906-4cd1-9916-bdbc942dacf0: 404 (0.003s)
+2025-07-19 18:42:57 | INFO     | main:log_requests:101 - Request ae00721f-9bf3-438e-85ce-9234525b49d6: GET /api/v1/conversation/a1449137-a4f8-437d-860f-ee51a29611b7 from 127.0.0.1
+2025-07-19 18:42:57 | INFO     | api_routes:get_conversation_history:113 - Retrieving conversation history for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:42:57 | ERROR    | api_routes:get_conversation_history:137 - Error retrieving conversation history: 24 validation errors for ConversationHistory
+messages.0.message
+  Field required [type=missing, input_value={'id': 1, 'session_id': '...19, 12, 19, 54, 541052)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.1.message
+  Field required [type=missing, input_value={'id': 2, 'session_id': '...19, 12, 19, 54, 551236)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.2.message
+  Field required [type=missing, input_value={'id': 3, 'session_id': '... 19, 12, 23, 38, 52206)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.3.message
+  Field required [type=missing, input_value={'id': 4, 'session_id': '... 19, 12, 23, 38, 72891)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.4.message
+  Field required [type=missing, input_value={'id': 5, 'session_id': '...19, 12, 25, 45, 726938)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.5.message
+  Field required [type=missing, input_value={'id': 6, 'session_id': '...19, 12, 25, 45, 735799)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.6.message
+  Field required [type=missing, input_value={'id': 7, 'session_id': '...19, 12, 28, 10, 559512)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.7.message
+  Field required [type=missing, input_value={'id': 8, 'session_id': '...19, 12, 28, 10, 569725)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.8.message
+  Field required [type=missing, input_value={'id': 9, 'session_id': '...19, 12, 30, 50, 680495)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.9.message
+  Field required [type=missing, input_value={'id': 10, 'session_id': ...19, 12, 30, 50, 689993)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.10.message
+  Field required [type=missing, input_value={'id': 11, 'session_id': ...7, 19, 12, 37, 43, 317)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.11.message
+  Field required [type=missing, input_value={'id': 12, 'session_id': ..., 19, 12, 37, 43, 9161)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.12.message
+  Field required [type=missing, input_value={'id': 13, 'session_id': ...19, 12, 43, 15, 828586)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.13.message
+  Field required [type=missing, input_value={'id': 14, 'session_id': ...19, 12, 43, 15, 845475)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.14.message
+  Field required [type=missing, input_value={'id': 15, 'session_id': ...19, 12, 45, 57, 590474)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.15.message
+  Field required [type=missing, input_value={'id': 16, 'session_id': ...19, 12, 45, 57, 610052)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.16.message
+  Field required [type=missing, input_value={'id': 17, 'session_id': ...19, 12, 49, 17, 190424)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.17.message
+  Field required [type=missing, input_value={'id': 18, 'session_id': ...19, 12, 49, 17, 208649)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.18.message
+  Field required [type=missing, input_value={'id': 19, 'session_id': ...19, 12, 58, 15, 824153)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.19.message
+  Field required [type=missing, input_value={'id': 20, 'session_id': ...19, 12, 58, 15, 839178)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.20.message
+  Field required [type=missing, input_value={'id': 21, 'session_id': ... 19, 13, 2, 24, 299693)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.21.message
+  Field required [type=missing, input_value={'id': 22, 'session_id': ... 19, 13, 2, 24, 315781)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.22.message
+  Field required [type=missing, input_value={'id': 23, 'session_id': ... 19, 13, 8, 53, 128964)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.23.message
+  Field required [type=missing, input_value={'id': 24, 'session_id': ... 19, 13, 8, 53, 152494)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-19 18:42:57 | INFO     | main:log_requests:111 - Response ae00721f-9bf3-438e-85ce-9234525b49d6: 500 (0.076s)
+2025-07-19 18:43:26 | INFO     | main:log_requests:101 - Request 496517e5-92c6-49c5-9cd0-3cc2a69eaf41: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:43:26 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:43:26 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:43:26 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:43:26 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:43:31 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.BOOK_TRIP
+2025-07-19 18:43:31 | INFO     | langgraph_workflow:create_booking:213 - Processing booking request
+2025-07-19 18:43:31 | INFO     | external_apis:create_booking:102 - Creating flight booking for item: 
+2025-07-19 18:43:33 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:43:41 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:43:41 | INFO     | main:log_requests:111 - Response 496517e5-92c6-49c5-9cd0-3cc2a69eaf41: 200 (14.648s)
+2025-07-19 18:48:31 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:48:37 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:48:37 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:48:46 | INFO     | main:log_requests:101 - Request 0d45ee02-9741-4945-ba93-036d88e7827a: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:48:46 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:48:46 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:48:46 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:48:46 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:48:49 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.SEARCH_HOTEL
+2025-07-19 18:48:49 | INFO     | langgraph_workflow:search_hotels:184 - Processing hotel search
+2025-07-19 18:48:49 | INFO     | external_apis:search_hotels:57 - Searching hotels in: Ooty
+2025-07-19 18:48:50 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:48:52 | INFO     | main:log_requests:101 - Request 2ce3cf81-9f7a-4715-8cbd-9cf0740a610c: POST /api/v1/book-trip from 127.0.0.1
+2025-07-19 18:48:52 | INFO     | main:log_requests:111 - Response 2ce3cf81-9f7a-4715-8cbd-9cf0740a610c: 422 (0.004s)
+2025-07-19 18:49:09 | INFO     | main:log_requests:101 - Request ccb5e958-f7fc-423a-b8ca-97e005f4328d: GET /api/v1/conversation/a1449137-a4f8-437d-860f-ee51a29611b7 from 127.0.0.1
+2025-07-19 18:49:09 | INFO     | api_routes:get_conversation_history:113 - Retrieving conversation history for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:49:09 | ERROR    | api_routes:get_conversation_history:137 - Error retrieving conversation history: 26 validation errors for ConversationHistory
+messages.0.message
+  Field required [type=missing, input_value={'id': 1, 'session_id': '...19, 12, 19, 54, 541052)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.1.message
+  Field required [type=missing, input_value={'id': 2, 'session_id': '...19, 12, 19, 54, 551236)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.2.message
+  Field required [type=missing, input_value={'id': 3, 'session_id': '... 19, 12, 23, 38, 52206)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.3.message
+  Field required [type=missing, input_value={'id': 4, 'session_id': '... 19, 12, 23, 38, 72891)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.4.message
+  Field required [type=missing, input_value={'id': 5, 'session_id': '...19, 12, 25, 45, 726938)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.5.message
+  Field required [type=missing, input_value={'id': 6, 'session_id': '...19, 12, 25, 45, 735799)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.6.message
+  Field required [type=missing, input_value={'id': 7, 'session_id': '...19, 12, 28, 10, 559512)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.7.message
+  Field required [type=missing, input_value={'id': 8, 'session_id': '...19, 12, 28, 10, 569725)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.8.message
+  Field required [type=missing, input_value={'id': 9, 'session_id': '...19, 12, 30, 50, 680495)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.9.message
+  Field required [type=missing, input_value={'id': 10, 'session_id': ...19, 12, 30, 50, 689993)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.10.message
+  Field required [type=missing, input_value={'id': 11, 'session_id': ...7, 19, 12, 37, 43, 317)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.11.message
+  Field required [type=missing, input_value={'id': 12, 'session_id': ..., 19, 12, 37, 43, 9161)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.12.message
+  Field required [type=missing, input_value={'id': 13, 'session_id': ...19, 12, 43, 15, 828586)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.13.message
+  Field required [type=missing, input_value={'id': 14, 'session_id': ...19, 12, 43, 15, 845475)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.14.message
+  Field required [type=missing, input_value={'id': 15, 'session_id': ...19, 12, 45, 57, 590474)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.15.message
+  Field required [type=missing, input_value={'id': 16, 'session_id': ...19, 12, 45, 57, 610052)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.16.message
+  Field required [type=missing, input_value={'id': 17, 'session_id': ...19, 12, 49, 17, 190424)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.17.message
+  Field required [type=missing, input_value={'id': 18, 'session_id': ...19, 12, 49, 17, 208649)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.18.message
+  Field required [type=missing, input_value={'id': 19, 'session_id': ...19, 12, 58, 15, 824153)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.19.message
+  Field required [type=missing, input_value={'id': 20, 'session_id': ...19, 12, 58, 15, 839178)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.20.message
+  Field required [type=missing, input_value={'id': 21, 'session_id': ... 19, 13, 2, 24, 299693)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.21.message
+  Field required [type=missing, input_value={'id': 22, 'session_id': ... 19, 13, 2, 24, 315781)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.22.message
+  Field required [type=missing, input_value={'id': 23, 'session_id': ... 19, 13, 8, 53, 128964)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.23.message
+  Field required [type=missing, input_value={'id': 24, 'session_id': ... 19, 13, 8, 53, 152494)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.24.message
+  Field required [type=missing, input_value={'id': 25, 'session_id': ...19, 13, 13, 41, 101046)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+messages.25.message
+  Field required [type=missing, input_value={'id': 26, 'session_id': ...19, 13, 13, 41, 120509)}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.11/v/missing
+2025-07-19 18:49:09 | INFO     | main:log_requests:111 - Response ccb5e958-f7fc-423a-b8ca-97e005f4328d: 500 (0.023s)
+2025-07-19 18:49:16 | INFO     | main:log_requests:101 - Request c1ec99a9-6f1a-4209-94a8-2a64eb1a0e45: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:49:16 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:49:16 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:49:16 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:49:16 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:49:20 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.SEARCH_HOTEL
+2025-07-19 18:49:20 | INFO     | langgraph_workflow:search_hotels:184 - Processing hotel search
+2025-07-19 18:49:20 | INFO     | external_apis:search_hotels:57 - Searching hotels in: Ooty
+2025-07-19 18:49:21 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:49:21 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:49:21 | INFO     | main:log_requests:111 - Response 0d45ee02-9741-4945-ba93-036d88e7827a: 200 (35.483s)
+2025-07-19 18:49:41 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:49:41 | INFO     | main:log_requests:111 - Response c1ec99a9-6f1a-4209-94a8-2a64eb1a0e45: 200 (24.670s)
+2025-07-19 18:56:00 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 18:56:05 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 18:56:05 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 18:56:15 | INFO     | main:log_requests:101 - Request 405277f8-bed3-461f-979f-262556b534fb: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:56:15 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:56:15 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:56:15 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:56:15 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:56:18 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.SEARCH_HOTEL
+2025-07-19 18:56:18 | INFO     | langgraph_workflow:search_hotels:184 - Processing hotel search
+2025-07-19 18:56:18 | INFO     | external_apis:search_hotels:57 - Searching hotels in: 
+2025-07-19 18:56:19 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:56:41 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:56:41 | INFO     | main:log_requests:111 - Response 405277f8-bed3-461f-979f-262556b534fb: 200 (26.346s)
+2025-07-19 18:57:12 | INFO     | main:log_requests:101 - Request aa1b4248-70ae-4efa-a240-73609e0acd4a: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:57:12 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:57:12 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:57:12 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:57:12 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:57:18 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 18:57:18 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 18:57:18 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:57:34 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:57:35 | INFO     | main:log_requests:111 - Response aa1b4248-70ae-4efa-a240-73609e0acd4a: 200 (22.916s)
+2025-07-19 18:59:09 | INFO     | main:log_requests:101 - Request 7cb5752d-2160-46a7-8c0d-a1dfeb5a81ca: POST /api/v1/chat from 127.0.0.1
+2025-07-19 18:59:09 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:59:09 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:59:09 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 18:59:09 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 18:59:14 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.BOOK_TRIP
+2025-07-19 18:59:14 | INFO     | langgraph_workflow:create_booking:213 - Processing booking request
+2025-07-19 18:59:14 | INFO     | external_apis:create_booking:102 - Creating flight booking for item: 
+2025-07-19 18:59:16 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 18:59:24 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 18:59:24 | INFO     | main:log_requests:111 - Response 7cb5752d-2160-46a7-8c0d-a1dfeb5a81ca: 200 (15.244s)
+2025-07-19 19:06:41 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 19:06:46 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 19:06:46 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 19:08:23 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 19:08:37 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 19:08:37 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 19:08:37 | INFO     | main:log_requests:101 - Request 28fbfbbb-07df-4613-a2c0-a616da6529fb: POST /api/v1/chat from 127.0.0.1
+2025-07-19 19:08:37 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:08:37 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:08:37 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:08:37 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 19:08:37 | INFO     | deepseek_client:extract_intent_and_entities:75 - 🧠 Extracting intent and entities...
+2025-07-19 19:08:42 | INFO     | deepseek_client:_make_request:62 - ✅ DeepSeek message content extracted.
+2025-07-19 19:08:42 | INFO     | deepseek_client:extract_intent_and_entities:112 - ✅ Extracted intent: book_trip, confidence: 0.9
+2025-07-19 19:08:42 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.BOOK_TRIP
+2025-07-19 19:08:42 | INFO     | langgraph_workflow:create_booking:213 - Processing booking request
+2025-07-19 19:08:42 | INFO     | external_apis:create_booking:102 - Creating flight booking for item: 
+2025-07-19 19:08:44 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 19:08:44 | INFO     | deepseek_client:generate_response:137 - 🎬 Entering package API flow...
+2025-07-19 19:08:44 | INFO     | deepseek_client:generate_response:138 - 📩 User input: get me goa packages
+2025-07-19 19:08:44 | INFO     | deepseek_client:generate_response:139 - 🔍 Detected intent: book_trip
+2025-07-19 19:08:44 | INFO     | deepseek_client:generate_response:140 - 🧾 Extracted entities: {'location': 'Goa', 'package': 'Goa packages'}
+2025-07-19 19:08:44 | INFO     | deepseek_client:generate_response:143 - 📦 API Results Retrieved:
+2025-07-19 19:09:27 | INFO     | deepseek_client:_make_request:62 - ✅ DeepSeek message content extracted.
+2025-07-19 19:09:27 | INFO     | deepseek_client:generate_response:185 - ✅ Final AI Response:
+2025-07-19 19:09:27 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 19:09:27 | INFO     | main:log_requests:111 - Response 28fbfbbb-07df-4613-a2c0-a616da6529fb: 200 (49.969s)
+2025-07-19 19:09:27 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 19:09:32 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 19:09:32 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 19:09:42 | INFO     | main:log_requests:101 - Request 9b386ebc-071e-4830-881f-9676904b330f: POST /api/v1/chat from 127.0.0.1
+2025-07-19 19:09:42 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:09:42 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:09:42 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:09:42 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 19:09:45 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.BOOK_TRIP
+2025-07-19 19:09:45 | INFO     | langgraph_workflow:create_booking:213 - Processing booking request
+2025-07-19 19:09:45 | INFO     | external_apis:create_booking:102 - Creating flight booking for item: 
+2025-07-19 19:09:47 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 19:10:03 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 19:10:03 | INFO     | main:log_requests:111 - Response 9b386ebc-071e-4830-881f-9676904b330f: 200 (20.727s)
+2025-07-19 19:14:28 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 19:14:33 | INFO     | main:lifespan:35 - Starting AI Travel Assistant API lifecycle...
+2025-07-19 19:14:33 | INFO     | main:lifespan:39 - Attempting to initialize database (creating tables if they don't exist)...
+2025-07-19 19:14:33 | SUCCESS  | main:lifespan:41 - Database tables created/checked successfully.
+2025-07-19 19:14:33 | INFO     | main:lifespan:49 - DEEPSEEK_API_KEY is configured. Real DeepSeek API calls will be attempted.
+2025-07-19 19:14:33 | INFO     | main:lifespan:51 - Application startup complete.
+2025-07-19 19:14:33 | INFO     | main:log_requests:97 - Request ad4052ce-28d2-4683-b39b-292b2946100a: Incoming - POST /api/v1/chat from 127.0.0.1
+2025-07-19 19:14:33 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:14:33 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:14:33 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:14:33 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 19:14:37 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.BOOK_TRIP
+2025-07-19 19:14:37 | INFO     | langgraph_workflow:create_booking:213 - Processing booking request
+2025-07-19 19:14:37 | INFO     | external_apis:create_booking:102 - Creating flight booking for item: 
+2025-07-19 19:14:39 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 19:14:51 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 19:14:51 | INFO     | main:log_requests:105 - Request ad4052ce-28d2-4683-b39b-292b2946100a: Outgoing - 200 (18.129s) for /api/v1/chat
+2025-07-19 19:15:22 | INFO     | main:log_requests:97 - Request 36b78e66-6b04-4868-88d4-d54a4fdc00fd: Incoming - POST /api/v1/chat from 127.0.0.1
+2025-07-19 19:15:22 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:15:22 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:15:22 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:15:22 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 19:15:25 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.BOOK_TRIP
+2025-07-19 19:15:25 | INFO     | langgraph_workflow:create_booking:213 - Processing booking request
+2025-07-19 19:15:25 | INFO     | external_apis:create_booking:102 - Creating flight booking for item: 
+2025-07-19 19:15:26 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 19:15:38 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 19:15:38 | INFO     | main:log_requests:105 - Request 36b78e66-6b04-4868-88d4-d54a4fdc00fd: Outgoing - 200 (16.918s) for /api/v1/chat
+2025-07-19 19:16:18 | INFO     | main:lifespan:53 - Shutting down AI Travel Assistant API lifecycle...
+2025-07-19 19:16:25 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 19:16:25 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 19:16:38 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 19:16:50 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 19:16:50 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 19:17:05 | INFO     | main:log_requests:101 - Request 9ffe5c73-7140-4436-a5d1-c951c1ec25c3: GET / from 127.0.0.1
+2025-07-19 19:17:05 | INFO     | main:log_requests:111 - Response 9ffe5c73-7140-4436-a5d1-c951c1ec25c3: 200 (0.004s)
+2025-07-19 19:17:17 | INFO     | main:log_requests:101 - Request 4123909f-2fc2-4c5b-93ff-2267329391c6: POST /api/v1/chat from 127.0.0.1
+2025-07-19 19:17:17 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:17:17 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:17:17 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:17:17 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 19:17:25 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.BOOK_TRIP
+2025-07-19 19:17:25 | INFO     | langgraph_workflow:create_booking:213 - Processing booking request
+2025-07-19 19:17:25 | INFO     | external_apis:create_booking:102 - Creating flight booking for item: 
+2025-07-19 19:17:27 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 19:17:45 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 19:17:45 | INFO     | main:log_requests:111 - Response 4123909f-2fc2-4c5b-93ff-2267329391c6: 200 (28.332s)
+2025-07-19 19:21:13 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 19:21:19 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 19:21:19 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 19:21:23 | INFO     | main:log_requests:101 - Request 9852b647-b47c-4dd2-95b9-83cbd5367d7c: POST /api/v1/chat from 127.0.0.1
+2025-07-19 19:21:23 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:21:23 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:21:23 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:21:23 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 19:21:23 | INFO     | deepseek_client:extract_intent_and_entities:75 - 🧠 Extracting intent and entities...
+2025-07-19 19:21:28 | INFO     | deepseek_client:_make_request:62 - ✅ DeepSeek message content extracted.
+2025-07-19 19:21:28 | INFO     | deepseek_client:extract_intent_and_entities:112 - ✅ Extracted intent: search_flight, confidence: 0.9
+2025-07-19 19:21:28 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.SEARCH_FLIGHT
+2025-07-19 19:21:28 | INFO     | langgraph_workflow:search_flights:154 - Processing flight search
+2025-07-19 19:21:28 | INFO     | external_apis:search_flights:19 - Searching flights:  -> 
+2025-07-19 19:21:29 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 19:21:29 | INFO     | deepseek_client:generate_response:137 - 🎬 Entering package API flow...
+2025-07-19 19:21:29 | INFO     | deepseek_client:generate_response:138 - 📩 User input: bali packages
+2025-07-19 19:21:29 | INFO     | deepseek_client:generate_response:139 - 🔍 Detected intent: search_flight
+2025-07-19 19:21:29 | INFO     | deepseek_client:generate_response:140 - 🧾 Extracted entities: {'location': 'bali', 'package': 'true'}
+2025-07-19 19:21:29 | INFO     | deepseek_client:generate_response:143 - 📦 API Results Retrieved:
+2025-07-19 19:21:54 | INFO     | deepseek_client:_make_request:62 - ✅ DeepSeek message content extracted.
+2025-07-19 19:21:54 | INFO     | deepseek_client:generate_response:185 - ✅ Final AI Response:
+2025-07-19 19:21:54 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 19:21:54 | INFO     | main:log_requests:111 - Response 9852b647-b47c-4dd2-95b9-83cbd5367d7c: 200 (31.474s)
+2025-07-19 19:22:22 | INFO     | main:log_requests:101 - Request 05019f8f-1f16-4709-8881-abd9df8b274f: POST /api/v1/chat from 127.0.0.1
+2025-07-19 19:22:22 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:22:22 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:22:23 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:22:23 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 19:22:23 | INFO     | deepseek_client:extract_intent_and_entities:75 - 🧠 Extracting intent and entities...
+2025-07-19 19:22:26 | INFO     | deepseek_client:_make_request:62 - ✅ DeepSeek message content extracted.
+2025-07-19 19:22:26 | INFO     | deepseek_client:extract_intent_and_entities:112 - ✅ Extracted intent: search_hotel, confidence: 0.9
+2025-07-19 19:22:26 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.SEARCH_HOTEL
+2025-07-19 19:22:26 | INFO     | langgraph_workflow:search_hotels:184 - Processing hotel search
+2025-07-19 19:22:26 | INFO     | external_apis:search_hotels:57 - Searching hotels in: Bali
+2025-07-19 19:22:27 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 19:22:27 | INFO     | deepseek_client:generate_response:137 - 🎬 Entering package API flow...
+2025-07-19 19:22:27 | INFO     | deepseek_client:generate_response:138 - 📩 User input: bali packages
+2025-07-19 19:22:27 | INFO     | deepseek_client:generate_response:139 - 🔍 Detected intent: search_hotel
+2025-07-19 19:22:27 | INFO     | deepseek_client:generate_response:140 - 🧾 Extracted entities: {'location': 'Bali', 'package': 'travel packages'}
+2025-07-19 19:22:27 | INFO     | deepseek_client:generate_response:143 - 📦 API Results Retrieved:
+2025-07-19 19:22:44 | INFO     | deepseek_client:_make_request:62 - ✅ DeepSeek message content extracted.
+2025-07-19 19:22:44 | INFO     | deepseek_client:generate_response:185 - ✅ Final AI Response:
+2025-07-19 19:22:44 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 19:22:44 | INFO     | main:log_requests:111 - Response 05019f8f-1f16-4709-8881-abd9df8b274f: 200 (21.399s)
+2025-07-19 19:22:44 | INFO     | main:lifespan:52 - Shutting down AI Travel Assistant API
+2025-07-19 19:22:48 | INFO     | main:lifespan:33 - Starting AI Travel Assistant API
+2025-07-19 19:22:48 | INFO     | main:lifespan:40 - Database initialized successfully
+2025-07-19 19:23:02 | INFO     | main:log_requests:101 - Request 5d4a463c-a8d7-44eb-8cbd-4e305490c933: GET /docs from 127.0.0.1
+2025-07-19 19:23:02 | INFO     | main:log_requests:111 - Response 5d4a463c-a8d7-44eb-8cbd-4e305490c933: 200 (0.004s)
+2025-07-19 19:23:02 | INFO     | main:log_requests:101 - Request 577e3da6-f199-4607-8ad6-5e6a949ca46f: GET /openapi.json from 127.0.0.1
+2025-07-19 19:23:02 | INFO     | main:log_requests:111 - Response 577e3da6-f199-4607-8ad6-5e6a949ca46f: 200 (0.066s)
+2025-07-19 19:23:20 | INFO     | main:log_requests:101 - Request 9e45d94e-7e75-452a-a8eb-09e4fe9a7d0d: POST /api/v1/chat from 127.0.0.1
+2025-07-19 19:23:20 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: string
+2025-07-19 19:23:20 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: string
+2025-07-19 19:23:20 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: string
+2025-07-19 19:23:20 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 19:23:26 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.BOOK_TRIP
+2025-07-19 19:23:27 | INFO     | langgraph_workflow:create_booking:213 - Processing booking request
+2025-07-19 19:23:27 | INFO     | external_apis:create_booking:102 - Creating flight booking for item: 
+2025-07-19 19:23:29 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 19:23:47 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 19:23:47 | INFO     | main:log_requests:111 - Response 9e45d94e-7e75-452a-a8eb-09e4fe9a7d0d: 200 (27.003s)
+2025-07-19 19:24:42 | INFO     | main:log_requests:101 - Request 59858a2f-f1db-4f93-b6f7-f8b8424295b5: GET /api/v1/tripxplo/packages from 127.0.0.1
+2025-07-19 19:24:43 | INFO     | main:log_requests:111 - Response 59858a2f-f1db-4f93-b6f7-f8b8424295b5: 200 (1.165s)
+2025-07-19 19:25:32 | INFO     | main:log_requests:101 - Request d6146dd9-7bd7-443b-a85b-c9c931533f80: POST /api/v1/chat from 127.0.0.1
+2025-07-19 19:25:32 | INFO     | api_routes:chat_with_assistant:34 - Chat request from session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:25:32 | INFO     | langgraph_workflow:run_workflow:320 - Starting workflow for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:25:32 | INFO     | langgraph_workflow:preprocess_input:85 - Preprocessing input for session: a1449137-a4f8-437d-860f-ee51a29611b7
+2025-07-19 19:25:32 | INFO     | langgraph_workflow:extract_intent_and_entities:113 - Extracting intent and entities
+2025-07-19 19:25:36 | INFO     | langgraph_workflow:route_request:149 - Routing request with intent: IntentType.GENERAL_INQUIRY
+2025-07-19 19:25:36 | INFO     | langgraph_workflow:handle_general_inquiry:236 - Processing general inquiry
+2025-07-19 19:25:36 | INFO     | langgraph_workflow:generate_response:244 - Generating response
+2025-07-19 19:25:51 | INFO     | langgraph_workflow:store_conversation:268 - Storing conversation
+2025-07-19 19:25:52 | INFO     | main:log_requests:111 - Response d6146dd9-7bd7-443b-a85b-c9c931533f80: 200 (19.546s)
+2025-07-19 19:25:53 | INFO     | main:log_requests:101 - Request d7ed2fe0-b785-4ce2-abf6-c86f7c3d4c69: GET /api/v1/tripxplo/packages from 127.0.0.1
+2025-07-19 19:25:53 | INFO     | main:log_requests:111 - Response d7ed2fe0-b785-4ce2-abf6-c86f7c3d4c69: 200 (0.395s)
+2025-07-19 19:25:58 | INFO     | main:log_requests:101 - Request 035febc3-96d5-4040-96c2-4a322557c441: GET /api/v1/tripxplo/packages from 127.0.0.1
+2025-07-19 19:25:58 | INFO     | main:log_requests:111 - Response 035febc3-96d5-4040-96c2-4a322557c441: 200 (0.236s)
